@@ -67,7 +67,7 @@ This mini-project is a **real-time Airport Gap API** testing implementation wher
 - ✅ Status Code & Response Validation  
 - 🌍 Multiple Page API navigation with dynamic params
 
-- ## 🚀 Execution Flow
+-## 🚀 Execution Flow
 
 ```mermaid
 graph TD
@@ -76,6 +76,7 @@ graph TD
     C --> D[🌍 Access Airport APIs]
     D --> E[✅ Validate Responses]
     E --> F[📊 Generate Reports]
+
 
 
 ## 🧪 Project Structure
