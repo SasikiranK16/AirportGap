@@ -77,19 +77,5 @@ graph TD
     D --> E[✅ Validate Responses]
     E --> F[📊 Generate Reports]
 
-## 🧪 Project Structure
-
-```plaintext
-📦 airportgap-mini-project
- ┣ 📁 src
- ┃ ┗ 📁 test
- ┃   ┗ 📁 java
- ┃     ┣ 📂 auth          → 🔐 Token generation
- ┃     ┣ 📂 requests      → 🌐 API logic
- ┃     ┣ 📂 specs         → 📑 Request/Response Specs
- ┃     ┗ 📂 utils         → 🧰 Helper methods
- ┣ 📄 pom.xml             → 📦 Maven dependencies
- ┣ 📄 testng.xml          → 🧪 Test suite config
- ┗ 📄 README.md           → 📘 Project documentation
 
 
