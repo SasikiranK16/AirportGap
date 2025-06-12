@@ -104,7 +104,6 @@ Through this AirportGap API Mini Project, you will:
 - 🧠 **Structure your test automation** in a clean, modular, and scalable format  
 - 📊 **Master reusable request and response specifications** using RestAssured  
 - ✍️ **Design robust and maintainable test flows** that reflect real-time use cases
-
 ## 🙌 Credits
 
 This project was built with:
@@ -115,8 +114,4 @@ This project was built with:
   - 📚 [Pramod Dutta](https://www.linkedin.com/in/pramoddutta) — for hands-on practical examples  
   - 👨‍💻 And a big shoutout to the **entire QA community** that fuels the learning journey daily!
 
-<p align="center"> 
-💻 Built with ❤️ and 🔥 by <strong>Kakara Sasikiran</strong> <br>
-#CodeWithFire | #APIAutomation | #NeverSettle 🚀
-</p>
 
