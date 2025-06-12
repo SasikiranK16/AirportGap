@@ -78,4 +78,19 @@ graph TD
     E --> F[📊 Generate Reports]
 
 
+## 🧪 Project Structure
+
+```plaintext
+📦 airportgap-mini-project
+ ┣ 📁 src
+ ┃ ┗ 📁 test
+ ┃   ┗ 📁 java
+ ┃     ┣ 📂 auth         → 🔐 Handles token generation logic
+ ┃     ┣ 📂 requests     → 🌐 Contains core API test logic (GET/POST etc.)
+ ┃     ┣ 📂 specs        → 📑 Defines reusable Request & Response Specifications
+ ┃     ┗ 📂 utils        → 🧰 Utility classes (data providers, config helpers)
+ ┣ 📄 pom.xml            → 📦 Maven project file for dependencies and plugins
+ ┣ 📄 testng.xml         → 🧪 Entry point for test suite execution
+ ┗ 📄 README.md          → 📘 Project documentation and overview
+
 
