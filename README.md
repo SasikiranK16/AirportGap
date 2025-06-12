@@ -65,7 +65,18 @@ This mini-project is a **real-time Airport Gap API** testing implementation wher
 - 🧾 Reusable Request & Response Specs  
 - 🗂️ Payload sent as File, Map & JSON Object  
 - ✅ Status Code & Response Validation  
-- 🌍 Multiple Page API navigation with dynamic params  
+- 🌍 Multiple Page API navigation with dynamic params
+
+- ## 🚀 Execution Flow
+
+```mermaid
+graph TD
+    A[🚀 Launch Test Runner] --> B[⚙️ Setup Base URI & Headers]
+    B --> C[🔐 Send Auth Request]
+    C --> D[🌍 Access Airport APIs]
+    D --> E[✅ Validate Responses]
+    E --> F[📊 Generate Reports]
+
 
 
 
